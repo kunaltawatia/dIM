@@ -14,7 +14,7 @@ If someone needs something, he asks the captain or any other PoR holder of that 
 This works good, the whole process is there for a long time and has given its result without any issues, until, if in some case the item goes *"missing"*. 
 The thing is that there is a lot of trusts involved here like we have to trust the captain to not do any mistake or the issuer that he returns the item in time, again the captain that he has taken the entry of the item at return, and where not? Why do we have to put in our *trust* or *faith* ? When we can dive in **blockchain** ?
 ### Proposed Solution
-***Blockchain***
+#### ***Blockchain***
 Now everyone, who maintains a ledger ( a type of register ), which everyone would, who is connected to the LAN or IITJ_WLAN, would have knowledge of who gave which item to whom, which item was requested in tender, which item was deprecated, which request got accepted, which one got declined, and everything... now would you have to put your faith in some server, or the person controlling it? Noooo. Because it is not a centralized system where we have to put faith in, everyone is looking it, storing it, taking care of it constantly, *the decentralized network*. the blockchain.
 And hence the transparency and security of the publics' valuable belongings.
 ___
