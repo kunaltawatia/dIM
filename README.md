@@ -1,7 +1,7 @@
 # dIM : Inventory Management with Blockchain
 
 
-> dIM --- "distributed Inventory Management"
+> dIM - "distributed Inventory Management"
 
 A distributed application based on campus network which can be used by clubs to have campus-wide transparency and hence security while they issue their valuable items.
 
@@ -29,3 +29,8 @@ ___
 |Name|Year|Department|
 |--|--|--|
 |Kunal Tawatia| Sophomore|Computer Science and Engineering|
+
+##### Steps to join
+
+ 1. Star this repo.
+ 2. Push a PR in this README, adding your details in the above table.
